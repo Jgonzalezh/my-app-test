@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <Welcome message ="Hola Welcome props"/>
+        <Welcome message ="Hola Welcome props" name="Tm0"/>
       </header>
     </div>
   );
