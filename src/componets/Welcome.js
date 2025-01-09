@@ -14,7 +14,7 @@ export default function Welcome (props)
         setCounter(counter+1);
         setSemaforo(!semaforo);
     }
-    console.log(semaforo);
+    ;
 //<!–- si semaforo es true = red sino green -->
     return (<div>
     <p> Hola desde la van, soy {name},new {message} </p>
